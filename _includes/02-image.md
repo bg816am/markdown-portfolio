@@ -1,1 +1,2 @@
-! [Daft Punk Octo] (https://octodex.github.com/daftpunktocat-thomas/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
