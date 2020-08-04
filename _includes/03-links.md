@@ -1,2 +1,2 @@
-[My Homepage] (https://github.com/bg816am)
+[My Homepage] <https://github.com/bg816am>
 
